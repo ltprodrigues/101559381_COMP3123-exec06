@@ -1,0 +1,30 @@
+{
+  "name": "week06_moongose",
+  "version": "1.0.0",
+  "description": "Set up the connection of your DB Mongo Serve to your web serve on Express",
+   "main": "server.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "expressJS",
+    "nodeJS",
+    "week06",
+    "API",
+    "mongoDB",
+    "REST",
+    "mongoose",
+    "notes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ltprodrigues_week06_mongoose"
+  },
+  "license": "ISC",
+  "author": "Leticia Rodrigues",
+  "dependencies": {
+    "mongoose": "8.19.1",
+    "express": "5.1.0"
+  }
+}
